@@ -2,6 +2,7 @@
 
 
 ### Languages and tools
+<hr>
 ![Flutter](https://img.shields.io/badge/Laravel-090909?style=for-the-badge&logo=laravel)
 ![Flutter](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php)
 ![Flutter](https://img.shields.io/badge/MYSQL-090909?style=for-the-badge&logo=mysql)
@@ -14,6 +15,7 @@
 ![Flutter](https://img.shields.io/badge/MacOS-090909?style=for-the-badge&logo=macos)
 
 ### Stats
+<hr>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=layt73&theme=tokyonight)](https://github.com/LAYT73)
 <br>
 <br>
