@@ -1,7 +1,7 @@
 [![Header](about.jpg)](https://github.com/LAYT73)
 
 
-### Languages and tools
+<h1>Languages and tools</h1>
 ---
 ![Flutter](https://img.shields.io/badge/Laravel-090909?style=for-the-badge&logo=laravel)
 ![Flutter](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php)
