@@ -14,4 +14,5 @@
 ![Flutter](https://img.shields.io/badge/MacOS-090909?style=for-the-badge&logo=macos)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=layt73&theme=tokyonight)](https://github.com/LAYT73)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layt73&hide_progress=true&theme=tokyonight)](https://github.com/LAYT73)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layt73&theme=tokyonight)](https://github.com/LAYT73)
