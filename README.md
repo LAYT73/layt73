@@ -11,5 +11,5 @@
 ![Flutter](https://img.shields.io/badge/JS-090909?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git)
 ![Flutter](https://img.shields.io/badge/MAMP-090909?style=for-the-badge&logo=mamp)
-![Flutter](https://img.shields.io/badge/MacOS-090909?style=for-the-badge&logo=macos)
+![Flutter](https://img.shields.io/badge/MacOS-090909?style=for-the-badge&logo=macos&logoWidth=40)
 
