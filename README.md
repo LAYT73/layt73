@@ -13,4 +13,4 @@
 ![Flutter](https://img.shields.io/badge/MAMP-090909?style=for-the-badge&logo=mamp)
 ![Flutter](https://img.shields.io/badge/MacOS-090909?style=for-the-badge&logo=macos)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=layt73&theme=dracula)](https://github.com/LAYT73)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=layt73&theme=tokyonight)](https://github.com/LAYT73)
