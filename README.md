@@ -1,4 +1,4 @@
-[![Header](about.jpg)](https://github.com/LAYT73)
+<!--[![Header](about.jpg)](https://github.com/LAYT73)-->
 
 
 ## Languages and tools
@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="sql" width="70" height="70"/>&nbsp;
 </div> -->
-
+<!--
 
 ## Stats
 
