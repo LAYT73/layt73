@@ -1,7 +1,7 @@
-<!--[![Header](about.jpg)](https://github.com/LAYT73)-->
+<!--[![Header](about.jpg)](https://github.com/LAYT73)
 
 
-## Languages and tools
+## Languages and tools-->
 
 <!--<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="70" height="70"/>&nbsp;
