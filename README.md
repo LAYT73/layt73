@@ -1,4 +1,4 @@
-[![Header](about.jpg)](https://github.com/LAYT73)
+[![Header](about2.jpg)](https://github.com/LAYT73)
 
 
 ## Languages and tools
