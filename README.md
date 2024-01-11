@@ -1,5 +1,5 @@
 [![Header](about2.jpg)](https://github.com/LAYT73)
-![](https://komarev.com/ghpvc/?username=LAYT73)
+
 
 ## Languages and tools
 
