@@ -28,3 +28,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=layt73&theme=tokyonight)](https://github.com/LAYT73)
 <br>
 <br>
+[![codewars](https://www.codewars.com/users/LAYT730/badges/large)](https://www.codewars.com/users/LAYT730)
