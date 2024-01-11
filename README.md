@@ -29,3 +29,5 @@
 <br>
 <br>
 [![codewars](https://www.codewars.com/users/LAYT730/badges/large)](https://www.codewars.com/users/LAYT730)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
