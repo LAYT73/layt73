@@ -3,15 +3,15 @@
 ## 🚀 О себе
 - 💻 Студент **Программной инженерии** (2 курс Ульяновского Городского Технического Университета).
 - 🏠 Интересуюсь автоматизацией, оптимизацией, паттернами, и алгоритмикой.
-- 🌱 Учусь: React, TypeScript, NestJS, Python, C++, Java, C#.
+- 🌱 Учусь: React, TypeScript, NestJS, C++, Java, C#.
 
 ---
 
 ## 🛠️ Мои навыки
 
-- **Frontend:** React, HTML, CSS, SCSS, JavaScript, TypeScript, Axios, Mobx, Redux Toolkit.
+- **Frontend:** React, HTML, CSS, SCSS, JavaScript, TypeScript, Axios, Mobx, Redux Toolkit, Jest.
 - **Backend:** NestJS, Node.js, Express, TypeOrm, Postgresql.
-- **Языки программирования:** Python, C++, Java, JavaScript, TypeScript, C#.
+- **Языки программирования:** C++, Java, JavaScript, TypeScript, C#.
 - **Инструменты:** Git, Docker, Kubernetes, VirtualBox, Proxmox, Visual Paradigm.
 
 ---
