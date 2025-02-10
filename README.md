@@ -1,29 +1,29 @@
 [![Header](about3.jpg)](https://github.com/LAYT73)
 
-## 🚀 О себе
-- 💻 Студент **Программной инженерии** (2 курс Ульяновского Городского Технического Университета).
-- 🏠 Интересуюсь автоматизацией, оптимизацией, паттернами, и алгоритмикой.
-- 🌱 Учусь: React, TypeScript, NestJS, C++, Java, C#.
+## 🚀 About Me
+- 💻 I'm a **Software Engineering** student (2nd year at Ulyanovsk City Technical University).
+- 🏠 Passionate about automation, optimization, design patterns, and algorithms.
+- 🌱 Currently learning: React, TypeScript, NestJS, C++, Java, C#.
 
 ---
 
-## 🛠️ Мои навыки
+## 🛠️ My Skills
 
-- **Frontend:** React, HTML, CSS, SCSS, JavaScript, TypeScript, Axios, Mobx, Redux Toolkit, Jest.
-- **Backend:** NestJS, Node.js, Express, TypeOrm, Postgresql.
-- **Языки программирования:** C++, Java, JavaScript, TypeScript, C#.
-- **Инструменты:** Git, Docker, Kubernetes, VirtualBox, Proxmox, Visual Paradigm.
+- **Frontend:** React, HTML, CSS, SCSS, JavaScript, TypeScript, Axios, MobX, Redux Toolkit, Jest.
+- **Backend:** NestJS, Node.js, Express, TypeORM, PostgreSQL.
+- **Programming Languages:** C++, Java, JavaScript, TypeScript, C#.
+- **Tools:** Git, Docker, Kubernetes, VirtualBox, Proxmox, Visual Paradigm.
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats
 
 ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LAYT73&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAYT73&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Связь
+## 🌐 Contact
 
 - 📧 Email: nsshipilov.work@gmail.com
-- 📚 Проекты: [Мой GitHub](https://github.com/LAYT73)
+- 📚 Projects: [My GitHub](https://github.com/LAYT73)
