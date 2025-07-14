@@ -1,7 +1,7 @@
 [![Header](about3.jpg)](https://github.com/LAYT73)
 
 ## 🚀 About Me
-- 💻 I'm a **Software Engineering** student (2nd year at Ulyanovsk City Technical University).
+- 💻 I'm a **Software Engineering** student (3rd year at Ulyanovsk City Technical University).
 - 🏠 Passionate about automation, optimization, design patterns, and algorithms.
 - 🌱 Currently learning: React, TypeScript, NestJS, C++, Java, C#.
 
