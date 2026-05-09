@@ -1,10 +1,51 @@
 [![Header](about3.jpg)](https://github.com/LAYT73)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<p align="left">
+<p align="left">
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  
+  <!-- Styling -->
+  <img src="https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <!-- State -->
+  <img src="https://img.shields.io/badge/zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux_toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/mobx-%23FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white" />
+  
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/tanstack_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/zod-%233068B7.svg?style=for-the-badge&logo=zod&logoColor=white" />
+  
+  <!-- UI -->
+  <img src="https://img.shields.io/badge/antd-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/mantine-%233396FF.svg?style=for-the-badge&logo=mantine&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  
+  <!-- Animation -->
+  <img src="https://img.shields.io/badge/framer_motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/pixijs-%23E91E63.svg?style=for-the-badge&logo=pixiv&logoColor=white" />
+  
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/testing_library-%23E33332.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white" />
+  
+  <!-- Build -->
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## 🚀 About Me
 
@@ -98,6 +139,10 @@ The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with
   Date: April 2026  
   Accreditation ID: 52/100 (B2)  
   Verify: https://cert.efset.org/en/1TNBM6
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LAYT73&theme=sakura-x&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=220)](https://git.io/streak-stats)
 
 ---
 
