@@ -92,6 +92,15 @@ The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with
 
 ---
 
+### 📜 Certificates
+
+- **EF SET English Certificate (B2)**  
+  Date: April 2026  
+  Accreditation ID: 52/100 (B2)  
+  Verify: https://cert.efset.org/en/1TNBM6
+
+---
+
 ## 🌐 Contact
 
 * 💼 LinkedIn: https://linkedin.com/in/nikita-shipilov
