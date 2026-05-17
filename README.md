@@ -1,7 +1,6 @@
 [![Header](about3.jpg)](https://github.com/LAYT73)
 
-<p align="left">
-<p align="left">
+<p align="center">
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -47,18 +46,18 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🚀 About Me
+## / About Me
 
-* 💻 Frontend-focused **Software Engineering** student (3rd year).
-* 🎯 Specializing in building scalable, maintainable **React applications** with modern architecture.
-* 🧠 Focus on **frontend architecture, performance optimization, and state management**.
-* ⚙️ Backend experience (Node.js / NestJS) to support full-cycle development.
+* Frontend-focused **Software Engineering** student (3rd year).
+* Specializing in building scalable, maintainable **React applications** with modern architecture.
+* Focus on **frontend architecture, performance optimization, and state management**.
+* Backend experience (`Node.js` / `NestJS`) to support full-cycle development.
 
 ---
 
-## 🛠️ Core Skills
+## / Core Skills
 
-### 🎨 Frontend (Primary Focus)
+### Frontend (Primary Focus)
 
 * **Frameworks & Core:** React, TypeScript, JavaScript (ES6+), NextJS (SSR)
 * **Architecture:** Feature-Sliced Design (FSD), modular SCSS, scalable project structure
@@ -72,7 +71,7 @@
 
 ---
 
-### ⚙️ Backend (Supporting)
+### Backend (Supporting)
 
 * NestJS, Node.js, Express
 * TypeORM, PostgreSQL
@@ -80,14 +79,14 @@
 
 ---
 
-### 💻 Programming
+### Programming
 
 * TypeScript, JavaScript (primary)
 * C++, Java, C#
 
 ---
 
-### 🧰 Tools & Environment
+### Tools & Environment
 
 * Git, Docker
 * Vite, Webpack (Basic)
@@ -100,7 +99,7 @@
 
 <details>
 <summary><strong>1) zero-guess-frontend</strong> — Enterprise-grade React CLI scaffolding tool</summary>
-
+<br>
 CLI for rapid initialization of production-ready React applications with zero manual configuration. Eliminates boilerplate and enforces architectural best practices from day one.
 
 **Core capabilities:**
@@ -117,11 +116,13 @@ Interactive CLI prompts or direct command-line options for CI/CD automation.
 - [npm Package](https://www.npmjs.com/package/zero-guess-frontend)
 - [Documentation](https://layt73.github.io/zero-guess-frontend-docs/)
 - [GitHub Issues](https://github.com/LAYT73/zero-guess-frontend/issues)
+
+[![Readme Card](https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=LAYT73&repo=zero-guess-frontend)](https://github.com/psiyavush/github-stats)
 </details>
 
 <details>
 <summary><strong>2) SoccerStat</strong> — Frontend application for football statistics</summary>
-
+<br>
 SoccerStat is a frontend application for exploring football statistics, including leagues, teams, and match calendars. It was developed as a test assignment for a Simbirsoft internship, and it helped me pass the internship selection.
 
 The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with React Router 7 for navigation. It uses Ant Design 6 and Tailwind CSS 4 for the UI, Zod for schema validation, Axios for API communication, and Sentry for client-side error monitoring. The codebase also includes Vitest for testing and a Docker-based setup for local development and production deployment.
@@ -133,7 +134,7 @@ The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with
 
 ---
 
-### 📜 Certificates
+### / Certificates
 
 - **EF SET English Certificate (B2)**  
   Date: April 2026  
@@ -146,7 +147,7 @@ The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with
 
 ---
 
-## 🌐 Contact
+## / Contact
 
 * 💼 LinkedIn: https://linkedin.com/in/nikita-shipilov
 * 📱 Telegram: https://t.me/undefined_null_0
