@@ -1,4 +1,4 @@
-[![Header](about3.jpg)](https://github.com/LAYT73)
+[![Header](header.png)](https://github.com/LAYT73)
 
 <p align="center">
 
@@ -57,41 +57,21 @@
 
 ## / Core Skills
 
-### Frontend (Primary Focus)
-
-* **Frameworks & Core:** React, TypeScript, JavaScript (ES6+), NextJS (SSR)
-* **Architecture:** Feature-Sliced Design (FSD), modular SCSS, scalable project structure
-* **State Management:** Zustand, Redux Toolkit, MobX
-* **Data Fetching:** TanStack Query, Axios
-* **Styling:** SCSS, Tailwind, responsive & adaptive design
-* **Testing:** Jest, React Testing Library, Playwright
-* **Performance:** memoization, lazy loading, code splitting, rendering optimization
-* **UI:** AntD, Mantine UI, Shadcn, Headless UI.
-* **Animations & canvas:** PixiJS, Framer Motion, Anime.js
-
----
-
-### Backend (Supporting)
-
-* NestJS, Node.js, Express
-* TypeORM, PostgreSQL
-* REST API design
-
----
-
-### Programming
-
-* TypeScript, JavaScript (primary)
-* C++, Java, C#
-
----
-
-### Tools & Environment
-
-* Git, Docker
-* Vite, Webpack (Basic)
-* Linux, Proxmox, VirtualBox
-* CI/CD
+| Category | Skills |
+|---|---|
+| Frontend (Primary Focus) | React, TypeScript, JavaScript (ES6+), NextJS (SSR) |
+| Architecture | Feature-Sliced Design (FSD), modular SCSS, scalable project structure |
+| State Management | Zustand, Redux Toolkit, MobX |
+| Data Fetching | TanStack Query, Axios |
+| Styling | SCSS, Tailwind, responsive & adaptive design |
+| Testing | Jest, React Testing Library, Playwright |
+| Performance | memoization, lazy loading, code splitting, rendering optimization |
+| UI Libraries | AntD, Mantine UI, Shadcn, Headless UI |
+| Animations & Canvas | PixiJS, Framer Motion, Anime.js |
+| Backend (Supporting) | NestJS, Node.js, Express |
+| Database & ORM | TypeORM, PostgreSQL |
+| API | REST API design |
+| Tools & Environment | Git, Docker, Vite, Webpack (Basic), Linux, Proxmox, VirtualBox, CI/CD |
 
 ---
 
@@ -140,19 +120,20 @@ The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with
   Date: April 2026  
   Accreditation ID: 52/100 (B2)  
   Verify: https://cert.efset.org/en/1TNBM6
-
+  
+<!-- 
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LAYT73&theme=sakura-x&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=220)](https://git.io/streak-stats)
-
+-->
 ---
 
-## / Contact
+[![Footer](footer.png)](https://github.com/LAYT73)
 
-* 💼 LinkedIn: https://linkedin.com/in/nikita-shipilov
-* 📱 Telegram: https://t.me/undefined_null_0
-* 📧 Email: [nsshipilov@gmail.com](mailto:nsshipilov@gmail.com)
-* 📚 Projects: [My GitHub](https://github.com/LAYT73)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<p align="center">
+  <a href="https://nikita-shipilov.vercel.app">Landing Page</a> |
+  <a href="https://linkedin.com/in/nikita-shipilov">LinkedIn</a> |
+  <a href="https://t.me/undefined_null_0">Telegram</a> |
+  <a href="mailto:nsshipilov@gmail.com">Gmail</a> |
+  <a href="https://github.com/LAYT73">My GitHub</a>
+</p>
