@@ -48,7 +48,7 @@
 
 ## / About Me
 
-* Frontend-focused **Software Engineering** student (3rd year).
+* Frontend-focused **Software Engineer**.
 * Specializing in building scalable, maintainable **React applications** with modern architecture.
 * Focus on **frontend architecture, performance optimization, and state management**.
 * Backend experience (`Node.js` / `NestJS`) to support full-cycle development.
