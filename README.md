@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## / About Me
+## [![About Me](1.1.png)](https://github.com/LAYT73)
 
 * Frontend-focused **Software Engineer**.
 * Specializing in building scalable, maintainable **React applications** with modern architecture.
@@ -55,7 +55,7 @@
 
 ---
 
-## / Core Skills
+## [![Core Skills](1.2.png)](https://github.com/LAYT73)
 
 | Category | Skills |
 |---|---|
@@ -75,7 +75,7 @@
 
 ---
 
-### Projects
+## [![Projects](1.4.png)](https://github.com/LAYT73)
 
 <details>
 <summary><strong>1) zero-guess-frontend</strong> — Enterprise-grade React CLI scaffolding tool</summary>
@@ -114,7 +114,7 @@ The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with
 
 ---
 
-### / Certificates
+## [![Certificates](1.3.png)](https://github.com/LAYT73)
 
 - **EF SET English Certificate (B2)**  
   Date: April 2026  
