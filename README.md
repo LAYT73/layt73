@@ -46,6 +46,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<p align="center">
+    <img alt="Stars" src="https://img.shields.io/github/stars/LAYT73?style=social" />
+</p>
+
 ## [![About Me](1.1.png)](https://github.com/LAYT73)
 
 * Frontend-focused **Software Engineer**.
