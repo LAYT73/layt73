@@ -116,6 +116,20 @@ The project is built with React 19, TypeScript, Vite 8, and TanStack Query, with
 
 </details>
 
+<details>
+<summary><strong>3) Typeflow</strong> — Client-side touch typing trainer</summary>
+<br>
+Typeflow is a bilingual (EN/RU) touch typing trainer for English text. Timed, word-count, and quote modes with live WPM, accuracy, and consistency stats, a custom SVG speed chart, personal bests, and a virtual keyboard. Words and quotes are parsed from static files; everything runs in the browser with no backend.
+
+The project is built with React 19, TypeScript, and Vite 8, following Feature-Sliced Design. UI is CSS Modules over a design-token layer (dark theme, orange accent). Session logic lives in a pure reducer; settings and history are persisted with Zustand. Motion drives the caret and line scrolling. Vitest and Testing Library cover the engine, i18n, and the full typing flow. CI deploys to GitHub Pages.
+
+**Links:**
+- [Repository](https://github.com/LAYT73/touch-typing)
+- [Live Demo](https://layt73.github.io/touch-typing/)
+
+[![Readme Card](https://github-stats-psiyavushs-projects.vercel.app/api/pin/?username=LAYT73&repo=touch-typing)](https://github.com/psiyavush/github-stats)
+</details>
+
 ---
 
 ## [![Certificates](1.3.png)](https://github.com/LAYT73)
